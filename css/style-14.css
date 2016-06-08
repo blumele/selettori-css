@@ -6,6 +6,6 @@
   contenuti dentro gli elementi HTML che definiscono la classe "commento"
 
  */
-SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+.commento .autore, .commento .data {
   color: red;
 }
