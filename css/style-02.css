@@ -1,4 +1,4 @@
 /* colora di rosso tutti i link */
-SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+a {
   color: red;
 }
