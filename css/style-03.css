@@ -1,4 +1,4 @@
 /* colora di rosso tutti i div */
-SOSTITUISCIMI_CON_IL_SELETTORE_APPROPRIATO {
+div {
   color: red;
 }
